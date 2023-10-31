@@ -1,0 +1,5 @@
+let doce = "Doce de Leite"
+let salgado = "Panqueca"
+resultado = (doce !== "Doce de Leite") && (salgado !== "Panqueca")
+// O operador ! serve para negar um valor e ao utilizalo seu valor será contrario ao que aparece 
+console.log(resultado)
