@@ -1,4 +1,4 @@
-let marchimellow = "Sim, eu te amo!"
+let marchimellow = "Yes,I love you!"
 let res = true
 console.log("Do you love me?")
 if (res === true){console.log(marchimellow)} 

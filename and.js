@@ -11,4 +11,4 @@ let moedaColetadas = 100
 let item = "estrela"
 resultado = (moedaColetadas === 100) && (item === "estrela")
 console.log(resultado)
-console.log("Parabéns você ganhou o jogo")
+console.log("Parabéns você ganhou o jogo!!!")
