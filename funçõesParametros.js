@@ -6,3 +6,9 @@ paqueca(" com leite moça")
 function paqueca(panqueca){
     console.log("Panqueca"+panqueca)
 }
+
+function idade(nome,anoNascimento){
+    let idade = 2023 - anoNascimento;
+    console.log(nome,"tem",idade,"anos!!!");
+}
+idade("Kelly",2002)
